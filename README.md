@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+### Welcome to my GitHub profile!
+
+I'm passionate about programming and enjoy working on various side projects, ranging from <code>Java Spring Boot</code> and <code>Node.js</code> backend applications to <code>React</code> and <code>Angular</code> frontend projects. Here you'll find a collection of my work, showcasing my interests and skills in software development. Feel free to explore and reach out if you have any questions or collaboration ideas!
+
 
 <!--
 **mihalypal/mihalypal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
